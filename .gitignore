@@ -4,3 +4,5 @@
 /WebFormsTest/obj
 
 *.dll
+/WebFormsTest/App_Data/WebFormsTest.Models.DefaultContext_log.ldf
+/WebFormsTest/App_Data/WebFormsTest.Models.DefaultContext.mdf

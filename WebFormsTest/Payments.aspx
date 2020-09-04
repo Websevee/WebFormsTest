@@ -25,7 +25,11 @@
                 <EmptyDataTemplate>
                     <table >
                         <tr>
-                            <td>No data was returned.</td></tr></table></EmptyDataTemplate><Columns>
+                            <td>No data was returned.</td>
+                        </tr>
+                    </table>
+                </EmptyDataTemplate>
+                <Columns>
                     <asp:BoundField DataField="Customer.CustomerName"
                                     HeaderText="CustomerName" 
                                     SortExpression="Customer.CustomerName" />
